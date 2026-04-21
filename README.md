@@ -6,7 +6,7 @@ In anim do duis ullamco. Lorem ad mollit eu anim exercitation qui ea pariatur fu
 **Proident quis velit sint** fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad.
 [Tækniskólinn ](https://www.tskoli.is)
 
-[![IMAGE ALT TEXT HERE](https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
+[IMAGE ALT TEXT HERE](https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg)
 
 > Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
