@@ -15,4 +15,7 @@ In anim do duis ullamco. Lorem ad mollit eu anim exercitation qui ea pariatur fu
 ## Aliquip sunt laboris et esse nostrud.
 Eu est dolore duis enim consequat incididunt excepteur consectetur proident officia sit velit irure. Irure qui sunt enim aute cillum dolore. Elit amet nulla cupidatat nostrud excepteur duis dolore sit quis nisi. Do non eu est laboris quis duis laboris adipisicing dolore nulla nostrud et.
 ## Veniam ullamco esse dolore duis ea.
-for i in range(10): print(i)
+```python
+for i in range (10):
+    print(i)
+```
